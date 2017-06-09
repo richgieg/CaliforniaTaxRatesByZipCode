@@ -57,7 +57,7 @@ A CSV string containing the data in `zipCodesWithSingleTaxRate`.
 
 ### `zipCodesWithMultipleTaxRates`
 
-An array of objects, where each object contains a ZIP code two tax rates. These correspond to ZIP codes in which
+An array of objects, where each object contains a ZIP code and two tax rates. These correspond to ZIP codes in which
 there are two tax rates (uncommon).
 
 ----
